@@ -201,60 +201,6 @@
 	
 }
 
-.square1:hover{
-	width: 370px;
-	height: 295px;
-	background-image: url("https://bit.ly/2y60Z90");
-	background-size: 250px auto;
-	opacity: 0.6;
-	transition: all 0.4s ease;
-
-}
-.square2:hover{
-	width: 370px;
-	height: 295px;
-		background-image: url("https://bit.ly/2y60Z90");
-	background-size: 250px auto;
-	opacity: 0.6;
-	transition: all 0.4s ease;
-
-}
-.square3:hover{
-	width: 370px;
-	height: 295px;
-		background-image: url("https://bit.ly/2y60Z90");
-	background-size: 250px auto;
-	opacity: 0.6;
-	transition: all 0.4s ease;
-
-}
-.square4:hover{
-	width: 370px;
-	height: 295px;
-		background-image: url("https://bit.ly/2y60Z90");
-	background-size: 250px auto;
-	opacity: 0.6;
-	transition: all 0.4s ease;
-
-}
-.square5:hover{
-	width: 370px;
-	height: 295px;
-		background-image: url("https://bit.ly/2y60Z90");
-	background-size: 250px auto;
-	opacity: 0.6;
-	transition: all 0.4s ease;
-
-}
-.square6:hover{
-	width: 370px;
-	height: 295px;
-		background-image: url("https://bit.ly/2y60Z90");
-	background-size: 250px auto;
-	opacity: 0.6;
-	transition: all 0.4s ease;
-
-}
 
 
 
@@ -475,7 +421,369 @@
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%);	
-	
-	
-	
 }
+
+@media screen and (max-width: 1024px){
+	.fon1{
+		height: 500px;
+		
+	}
+	.fon2{
+		height: 850px;
+		
+	}
+	.fon3{
+		height: 550px;
+		
+	}
+	.fon4{
+		height: 70px;
+		
+	}
+	.worker-image{
+		width: 200px;
+		height: 200px;
+		background-size: 200px auto;
+		border-radius: 200px;
+	}
+
+	.bootstrap{
+		font-size:50px; 
+	}
+	
+	
+	.line1{
+		width: 75px;
+		height: 25px;
+		background-size: 75px 5px;
+		
+	}
+	.line2{
+		width: 75px;
+		height: 25px;
+		background-size: 75px 5px;
+		
+	}
+	.star1{
+		width: 40px;
+		height: 40px;
+		background-size: 40px 40px;
+		top: 74%;
+
+	}
+	.star2{
+		width: 40px;
+		height: 40px;
+		background-size: 40px 40px;
+		top: 18.5%
+
+	}
+	.text-of{
+		font-size: 22px;
+	}
+	
+	.portfolio{
+		font-size: 50px;
+	}
+
+	.line3{
+		width: 75px;
+		height: 40px;
+		background-size: 75px 20px;
+	}
+	.line4{
+		width: 75px;
+		height: 40px;
+		background-size: 75px 20px;	
+	}
+	.square1{
+		width: 23%;
+		height: 20%;
+			
+	}
+	.square2{
+		width: 23%;
+		height: 20%;
+			
+	}	
+	.square3{
+		width: 23%;
+		height: 20%;
+			
+	}	
+	.square4{
+		width: 23%;
+		height: 20%;
+			
+	}		
+	.square5{
+		width: 23%;
+		height: 20%;
+			
+	}		
+	.square6{
+		width: 23%;
+		height: 20%;
+			
+	}	
+	.picture1{
+		
+		width: 75%;
+		height: 80%;
+		background-size: 115% 70%;
+		background-position: -5px 15px;
+	}
+	.picture2{
+		
+		width: 75%;
+		height: 80%;
+		background-size: 85% 60%;
+		background-position: 10px 15px;
+		left: 12.5%;
+		top: 10%;
+		
+	}
+	.picture3{
+		
+		width: 75%;
+		height: 80%;
+		background-size: 95% 75%;
+		background-position: 2px 10px;
+		left: 12.5%;
+		top: 10%;
+
+}	
+	.picture4{
+		
+		width: 75%;
+		height: 80%;
+		background-size: 95% 75%;
+		background-position: 2px 15px;
+		left: 12.5%;
+		top: 10%;
+}	
+	.picture5{
+		
+		width: 75%;
+		height: 80%;
+		background-size: 95% 75%;
+		background-position: 2px 15px;
+		left: 12.5%;
+		top: 10%;
+}	
+	.picture6{
+		
+		width: 75%;
+		height: 80%;
+		background-size: 95% 75%;
+		background-position: 5px 10px;
+		left: 12.5%;
+		top: 10%;
+}
+	.about{
+		font-size: 45px;
+	}
+	.text1{
+		width: 35%;
+		height: 200px;
+		font-size: 18px;
+		top: 50%;
+		left: 30%;
+	   
+	}
+	.text2{
+		width: 35%;
+		height: 200px;
+		font-size: 18px;
+		top: 50%;
+		left: 70%;
+	   
+	}
+	.copyright{
+		font-size: 14px;
+		
+	}
+}
+
+@media screen and (max-width: 640px){
+	.fon1{
+		height: 400px;
+		
+	}
+	.fon2{
+		height: 500px;
+		
+	}
+	.fon3{
+		height: 450px;
+		
+	}
+	.fon4{
+		height: 50px;
+		
+	}
+	
+	.worker-image{
+		width: 175px;
+		height: 175px;
+		background-size: 175px auto;
+		border-radius: 200px;
+	}
+
+	.bootstrap{
+		font-size:35px; 
+	}
+	
+	
+	.line1{
+		width: 40px;
+		height: 4px;
+		background-size: 40px 4px;
+		
+	}
+	.line2{
+		width: 40px;
+		height: 4px;
+		background-size: 40px 4px;
+		
+	}
+	.star1{
+		width: 30px;
+		height: 30px;
+		background-size: 30px 30px;
+		top: 76%;
+
+	}
+	.star2{
+		width: 30px;
+		height: 30px;
+		background-size: 30px 30px;
+		top: 20%
+
+	}
+	.text-of{
+		font-size: 15px;
+	}
+	
+	.portfolio{
+		font-size: 40px;
+	}
+
+	.line3{
+		width: 40px;
+		height: 20px;
+		background-size: 45px 20px;
+	}
+	.line4{
+		width: 40px;
+		height: 20px;
+		background-size: 45px 20px;	
+	}
+	.square1{
+		width: 20%;
+		height: 20%;
+			
+	}
+	.square2{
+		width: 20%;
+		height: 20%;
+			
+	}	
+	.square3{
+		width: 20%;
+		height: 20%;
+			
+	}	
+	.square4{
+		width: 20%;
+		height: 20%;
+			
+	}		
+	.square5{
+		width: 20%;
+		height: 20%;
+			
+	}		
+	.square6{
+		width: 20%;
+		height: 20%;
+			
+	}	
+	.picture1{
+		
+		width: 75%;
+		height: 80%;
+		background-size: 115% 70%;
+		background-position: -5px 15px;
+	}
+	.picture2{
+		
+		width: 75%;
+		height: 80%;
+		background-size: 85% 60%;
+		background-position: 10px 15px;
+		left: 12.5%;
+		top: 10%;
+		
+	}
+	.picture3{
+		
+		width: 75%;
+		height: 80%;
+		background-size: 95% 75%;
+		background-position: 2px 10px;
+		left: 12.5%;
+		top: 10%;
+
+}	
+	.picture4{
+		
+		width: 75%;
+		height: 80%;
+		background-size: 95% 75%;
+		background-position: 2px 15px;
+		left: 12.5%;
+		top: 10%;
+}	
+	.picture5{
+		
+		width: 75%;
+		height: 80%;
+		background-size: 95% 75%;
+		background-position: 2px 15px;
+		left: 12.5%;
+		top: 10%;
+}	
+	.picture6{
+		
+		width: 75%;
+		height: 80%;
+		background-size: 95% 75%;
+		background-position: 5px 10px;
+		left: 12.5%;
+		top: 10%;
+}
+	.about{
+		font-size: 30px;
+	}
+	.text1{
+		width: 35%;
+		height: 175px;
+		font-size: 14px;
+		top: 50%;
+		left: 30%;
+	   
+	}
+	.text2{
+		width: 35%;
+		height: 175px;
+		font-size: 14px;
+		top: 50%;
+		left: 70%;
+	   
+	}	
+	.copyright{
+		font-size: 10px;
+		
+	}
+}	
